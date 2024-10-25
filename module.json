@@ -1,12 +1,12 @@
 {
     "id": "5e-complete",
     "title": "5e Complete Compendium",
-    "version": "0.3.3",
+    "version": "1.3.3",
     "authors": [
         {
             "name": "btbias",
-            "url": "https://github.com/btbias",
-            "discord": "btbias#9324"
+            "url": "https://github.com/lunadesuyo",
+            "discord": "ad"
         }
     ],
     "compatibility": {
